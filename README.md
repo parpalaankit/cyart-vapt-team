@@ -7,13 +7,13 @@ The project covers both **theoretical concepts** and **practical implementation*
 
 ---
 
-##  Repository Structure
+## Repository Structure
+
 Week 2/
 ├── 01_Theoretical_Knowledge/
 ├── 02_Practical_Labs/
 ├── 03_Screenshots/
-├── 04_Reports/
-
+└── 04_Reports/
 ---
 
 ##  Theoretical Knowledge
