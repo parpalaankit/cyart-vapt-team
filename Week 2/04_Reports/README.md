@@ -5,14 +5,14 @@ This folder contains all final reports for Week 2 VAPT (Vulnerability Assessment
 ##  Contents
 
 ### 1. Theoretical Report
-- File: theoretical_notes.pdf  
+- File: [theoretical_notes.pdf](./theoretical_notes.pdf)
 - Description: Contains detailed theoretical concepts including:
   - Vulnerability Scanning Techniques
   - Penetration Testing Techniques
   - Exploit Development Basics
 
 ### 2. Practical Report
-- File: practical_notes.pdf  
+- File: [practical_notes.pdf](./practical_notes.pdf) 
 - Description: Contains practical lab work including:
   - Vulnerability Scanning Lab
   - Reconnaissance Practice
