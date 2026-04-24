@@ -7,13 +7,15 @@ The project covers both **theoretical concepts** and **practical implementation*
 
 ---
 
-##  Repository Structure
+## Repository Structure
+
+```
 Week 2/
 ├── 01_Theoretical_Knowledge/
 ├── 02_Practical_Labs/
 ├── 03_Screenshots/
 └── 04_Reports/
-
+```
 
 ---
 
@@ -34,8 +36,10 @@ Includes:
 - Full VAPT Capstone Project  
 
 ---
-## Author
-Ankit Parpala
 
 ## ⚠️ Disclaimer
 All activities were performed in a **controlled lab environment** for educational purposes only. No unauthorized systems were tested.
+
+---
+## Author
+Ankit Parpala
