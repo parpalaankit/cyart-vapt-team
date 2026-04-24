@@ -7,36 +7,35 @@ The project covers both **theoretical concepts** and **practical implementation*
 
 ---
 
-## Repository Structure
-
+##  Repository Structure
 Week 2/
 ├── 01_Theoretical_Knowledge/
 ├── 02_Practical_Labs/
 ├── 03_Screenshots/
 └── 04_Reports/
+
+
 ---
 
 ##  Theoretical Knowledge
 Includes:
-- Vulnerability Scanning Techniques
-- Penetration Testing Techniques
-- Exploit Development Basics
+- Vulnerability Scanning Techniques  
+- Penetration Testing Techniques  
+- Exploit Development Basics  
 
 ---
 
 ##  Practical Labs
 Includes:
-- Vulnerability Scanning Lab (Nmap, OpenVAS, Nikto)
-- Reconnaissance Practice (OSINT, Shodan, Maltego)
-- Exploitation Lab (Metasploit, sqlmap)
-- Post-Exploitation Practice
-- Full VAPT Capstone Project
----
+- Vulnerability Scanning Lab (Nmap, OpenVAS, Nikto)  
+- Reconnaissance Practice (OSINT, Shodan, Maltego)  
+- Exploitation Lab (Metasploit, sqlmap)  
+- Post-Exploitation Practice  
+- Full VAPT Capstone Project  
 
-##  Disclaimer
+---
+## Author
+Ankit Parpala
+
+## ⚠️ Disclaimer
 All activities were performed in a **controlled lab environment** for educational purposes only. No unauthorized systems were tested.
-
----
-
-- ## 👨‍💻 Author
-**Ankit Parpala**
