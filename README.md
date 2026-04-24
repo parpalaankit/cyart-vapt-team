@@ -1,20 +1,22 @@
 # CYART VAPT Team – Week 2
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains documentation, reports, and workflow for **Week 2 VAPT (Vulnerability Assessment and Penetration Testing)** tasks.
 
 The project covers both **theoretical concepts** and **practical implementation** of vulnerability scanning, reconnaissance, exploitation, and reporting.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 Week 2/
 ├── 01_Theoretical_Knowledge/
 ├── 02_Practical_Labs/
+├── 03_Screenshots/
+├── 04_Reports/
 
 ---
 
-## 🧠 Theoretical Knowledge
+##  Theoretical Knowledge
 Includes:
 - Vulnerability Scanning Techniques
 - Penetration Testing Techniques
@@ -22,7 +24,7 @@ Includes:
 
 ---
 
-## 🔬 Practical Labs
+##  Practical Labs
 Includes:
 - Vulnerability Scanning Lab (Nmap, OpenVAS, Nikto)
 - Reconnaissance Practice (OSINT, Shodan, Maltego)
@@ -31,7 +33,7 @@ Includes:
 - Full VAPT Capstone Project
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 All activities were performed in a **controlled lab environment** for educational purposes only. No unauthorized systems were tested.
 
 ---
