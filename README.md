@@ -19,7 +19,6 @@ cyart-vapt-team/
 └── Week 3/
 ├── 01_Theoretical/
 ├── 02_Practical/
-└── 03_Reports/
 ```
 
 ---
