@@ -16,9 +16,13 @@ cyart-vapt-team/
 │ ├── 03_Screenshots/
 │ └── 04_Reports/
 │
-└── Week 3/
-├── 01_Theoretical/
-├── 02_Practical/
+├── Week 3/
+│ ├── 01_Theoretical/
+│ ├── 02_Practical/
+│
+└── Week 4/
+  ├── Theory/
+  ├── Practical/
 ```
 
 ---
@@ -44,6 +48,30 @@ Includes:
 - Full VAPT Capstone Project  
 
 ---
+
+# Week 4 – Advanced Practical VAPT Engagements
+
+Includes:
+- Advanced Exploitation and Exploit Chaining
+- API Security Testing
+- Privilege Escalation and Persistence
+- Network Protocol Attacks
+- Mobile Application Security Testing
+- Full PTES-Based VAPT Engagement
+- Professional Reporting and Remediation Planning
+
+## Practical Labs Covered
+- Metasploit Exploitation
+- Burp Suite API Testing
+- sqlmap SQL Injection Testing
+- LinPEAS Enumeration
+- Nmap SUID Privilege Escalation
+- Responder SMB/LLMNR Monitoring
+- Ettercap ARP Spoofing Simulation
+- Wireshark Packet Analysis
+- MobSF APK Static Analysis
+- OpenVAS Vulnerability Assessment
+
 
 ##  Disclaimer
 All activities were performed in a **controlled lab environment** for educational purposes only. No unauthorized systems were tested.
