@@ -42,10 +42,7 @@ The repository demonstrates both theoretical understanding and practical impleme
 cyart-vapt-team/
 │
 ├── Week 1/
-│   ├── 01_Theoretical_Knowledge/
-│   ├── 02_Practical_Labs/
-│   ├── 03_Screenshots/
-│   └── 04_Reports/
+│   ├── Week 1_VAPT_Report
 │
 ├── Week 2/
 │   ├── 01_Theoretical_Knowledge/
@@ -56,15 +53,11 @@ cyart-vapt-team/
 ├── Week 3/
 │   ├── 01_Theoretical/
 │   ├── 02_Practical/
-│   ├── 03_Screenshots/
-│   └── 04_Reports/
-│
+│  
 ├── Week 4/
 │   ├── Theory/
 │   ├── Practical/
-│   ├── Screenshots/
-│   └── Reports/
-│
+│   
 └── README.md
 ```
 
